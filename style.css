@@ -1,0 +1,14 @@
+.form{
+    background-color: #25499f;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    max-height: 600px;
+    height: 100%;
+    padding: 1rem;
+}
+
+.form div{
+    margin-bottom: 1rem;
+}
